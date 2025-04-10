@@ -1,0 +1,396 @@
+{
+  "@@locale": "en",
+  "appTitle": "FarmService Connect",
+  "@appTitle": {
+    "description": "Title of the application"
+  },
+
+  "welcomeMessage": "Connecting Farmers with Drone Services",
+  "@welcomeMessage": {
+    "description": "Tagline describing the app purpose"
+  },
+
+  "login": "Login",
+  "@login": {
+    "description": "Login button label"
+  },
+
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Label for phone number input"
+  },
+
+  "sendOtp": "Send OTP",
+  "@sendOtp": {
+    "description": "Button label for sending OTP"
+  },
+
+  "enterOtp": "Enter OTP",
+  "@enterOtp": {
+    "description": "Label for OTP input field"
+  },
+
+  "verifyOtp": "Verify OTP",
+  "@verifyOtp": {
+    "description": "Button label for verifying OTP"
+  },
+
+  "loginSuccess": "Login Successful",
+  "@loginSuccess": {
+    "description": "Message displayed when login succeeds"
+  },
+
+  "loginFailed": "Login Failed. Please try again.",
+  "@loginFailed": {
+    "description": "Error message when login fails"
+  },
+
+  "homeTitle": "Home",
+  "@homeTitle": {
+    "description": "Title for the home screen"
+  },
+
+  "serviceName": "Service Name",
+  "@serviceName": {
+    "description": "Label for service name"
+  },
+
+  "serviceDescription": "Description",
+  "@serviceDescription": {
+    "description": "Label for service description"
+  },
+
+  "bookNow": "Book Now",
+  "@bookNow": {
+    "description": "Button label for booking a service"
+  },
+
+  "bookingTitle": "Book Service",
+  "@bookingTitle": {
+    "description": "Title for booking page"
+  },
+
+  "farmName": "Farm Name",
+  "@farmName": {
+    "description": "Label for entering farm name"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "Label for the settings page"
+  },
+
+  "language": "Language",
+  "@language": {
+    "description": "Label for language selection"
+  },
+
+  "acres": "Acres",
+  "@acres": {
+    "description": "Label for selecting acres in booking"
+  },
+
+  "selectLocation": "Select Location",
+  "@selectLocation": {
+    "description": "Label for choosing the service location"
+  },
+
+  "totalPrice": "Total Price",
+  "@totalPrice": {
+    "description": "Label for displaying total booking price"
+  },
+
+  "proceedToPayment": "Proceed to Payment",
+  "@proceedToPayment": {
+    "description": "Button label for payment processing"
+  },
+
+  "bookingSuccess": "Booking Successful",
+  "@bookingSuccess": {
+    "description": "Message displayed when booking is successful"
+  },
+
+  "bookingFailed": "Booking Failed. Please try again.",
+  "@bookingFailed": {
+    "description": "Error message when booking fails"
+  },
+
+  "paymentTitle": "Payment",
+  "@paymentTitle": {
+    "description": "Title for the payment page"
+  },
+
+  "amountToPay": "Amount to Pay",
+  "@amountToPay": {
+    "description": "Label for total payment amount"
+  },
+
+  "payNow": "Pay Now",
+  "@payNow": {
+    "description": "Button label to proceed with payment"
+  },
+
+  "paymentSuccess": "Payment Successful",
+  "@paymentSuccess": {
+    "description": "Message displayed when payment is successful"
+  },
+
+  "paymentFailed": "Payment Failed. Please try again.",
+  "@paymentFailed": {
+    "description": "Error message when payment fails"
+  },
+
+  "adminDashboardTitle": "Admin Dashboard",
+  "@adminDashboardTitle": {
+    "description": "Title for the admin panel"
+  },
+
+  "addService": "Add Service",
+  "@addService": {
+    "description": "Button label to add a new service"
+  },
+
+  "manageBookings": "Manage Bookings",
+  "@manageBookings": {
+    "description": "Section title for managing bookings"
+  },
+
+  "accessDenied": "Access Denied",
+  "@accessDenied": {
+    "description": "Message displayed when a user lacks permission"
+  },
+
+  "chatbotTitle": "Chatbot",
+  "@chatbotTitle": {
+    "description": "Title for chatbot feature"
+  },
+
+  "howToBook": "How to book?",
+  "@howToBook": {
+    "description": "Question about booking services"
+  },
+
+  "bookingInstructions": "Go to the Home Screen, select a service, and fill out the booking form.",
+  "@bookingInstructions": {
+    "description": "Instructions on how to book a service"
+  },
+
+  "priceQuestion": "What is the price?",
+  "@priceQuestion": {
+    "description": "User question about pricing"
+  },
+
+  "priceResponse": "The price is ₹400 per acre.",
+  "@priceResponse": {
+    "description": "Predefined chatbot response for pricing inquiry"
+  },
+
+  "voiceBookingTitle": "Voice Booking",
+  "@voiceBookingTitle": {
+    "description": "Title for the voice booking feature"
+  },
+
+  "startVoiceBooking": "Start Voice Booking",
+  "@startVoiceBooking": {
+    "description": "Button label to start voice booking"
+  },
+
+  "voicePrompt": "What service do you want to book?",
+  "@voicePrompt": {
+    "description": "Voice assistant prompt for booking service"
+  },
+
+  "noInternet": "No Internet Connection",
+  "@noInternet": {
+    "description": "Warning message when offline"
+  },
+
+  "offlineMode": "Offline Mode: Data may be outdated",
+  "@offlineMode": {
+    "description": "Message displayed when using the app offline"
+  },
+
+  "syncingData": "Syncing Data...",
+  "@syncingData": {
+    "description": "Message displayed during data synchronization"
+  },
+
+  "logout": "Logout",
+  "@logout": {
+    "description": "Button label for logging out"
+  },
+
+  "registerPrompt": "Don't have an account? Register",
+  "@registerPrompt": {
+    "description": "Prompt for users to register if they don't have an account"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Button label for user registration"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Label for email input field"
+  },
+
+  "registerWithEmail": "Register with Email",
+  "@registerWithEmail": {
+    "description": "Option to register using email instead of phone"
+  },
+
+  "fillAllFields": "Please fill in all fields",
+  "@fillAllFields": {
+    "description": "Error message when required fields are empty"
+  },
+
+  "emailOtpNotImplemented": "Email OTP sending not implemented yet",
+  "@emailOtpNotImplemented": {
+    "description": "Message displayed when email OTP is not available"
+  },
+
+  "enterOtpPrompt": "Please enter the OTP",
+  "@enterOtpPrompt": {
+    "description": "Message prompting the user to enter OTP"
+  },
+
+  "invalidOtp": "Invalid OTP",
+  "@invalidOtp": {
+    "description": "Error message when an incorrect OTP is entered"
+  },
+    "serviceDeleted": "Service deleted successfully",
+    "@serviceDeleted": {
+      "description": "Message displayed when a service is deleted"
+    },
+
+    "description": "Description",
+    "@description": {
+      "description": "Label for describing a service or item"
+    },
+
+    "cancel": "Cancel",
+    "@cancel": {
+      "description": "Label for the cancel button"
+    },
+
+    "add": "Add",
+    "@add": {
+      "description": "Label for adding a new item"
+    },
+
+    "serviceAdded": "Service added successfully",
+    "@serviceAdded": {
+      "description": "Message displayed when a new service is added"
+    },
+
+    "welcome": "Welcome",
+    "@welcome": {
+      "description": "Welcome greeting for users"
+    },
+
+    "serviceAlert": "Service available at ₹400 per acre",
+    "@serviceAlert": {
+      "description": "Alert showing current service pricing"
+    },
+
+    "availableServices": "Available Services",
+    "@availableServices": {
+      "description": "Header for the services section"
+    },
+
+    "pastBookings": "Past Bookings",
+    "@pastBookings": {
+      "description": "Header for past bookings section"
+    },
+
+    "noBookingsYet": "No bookings yet",
+    "@noBookingsYet": {
+      "description": "Message shown when no bookings exist"
+    },
+
+    "payment": "Payment",
+    "@payment": {
+      "description": "Title for payment screen"
+    },
+
+    "orderSummary": "Order Summary",
+    "@orderSummary": {
+      "description": "Header for order summary section"
+    },
+
+    "selectPaymentMethod": "Select Payment Method",
+    "@selectPaymentMethod": {
+      "description": "Prompt to select payment method"
+    },
+
+    "cashOnService": "Cash on Service",
+    "@cashOnService": {
+      "description": "Option to pay cash when service is delivered"
+    },
+
+    "onlinePayment": "Online Payment",
+    "@onlinePayment": {
+      "description": "Option to pay online"
+    },
+
+    "razorpayOptions": "UPI, Card, Wallet, Net Banking",
+    "@razorpayOptions": {
+      "description": "Available online payment options"
+    },
+
+    "confirmPayment": "Confirm Payment",
+    "@confirmPayment": {
+      "description": "Button to confirm payment"
+    },
+
+    "bookingConfirmation": "Booking Confirmation",
+    "@bookingConfirmation": {
+      "description": "Title for booking confirmation screen"
+    },
+
+    "bookingSuccessful": "Booking Successful!",
+    "@bookingSuccessful": {
+      "description": "Message shown when booking is completed"
+    },
+
+    "bookingId": "Booking ID",
+    "@bookingId": {
+      "description": "Label for booking identifier"
+    },
+
+    "bookingDate": "Booking Date",
+    "@bookingDate": {
+      "description": "Label for booking date"
+    },
+
+    "status": "Status",
+    "@status": {
+      "description": "Label for booking status"
+    },
+
+    "pending": "Pending",
+    "@pending": {
+      "description": "Status indicating booking is pending"
+    },
+
+    "confirmed": "Confirmed",
+    "@confirmed": {
+      "description": "Status indicating booking is confirmed"
+    },
+
+    "backToHome": "Back to Home",
+    "@backToHome": {
+      "description": "Button to return to home screen"
+    },
+
+    "viewAllBookings": "View All Bookings",
+    "@viewAllBookings": {
+      "description": "Button to view all bookings"
+    },
+
+    "paymentMethod": "Payment Method",
+    "@paymentMethod": {
+      "description": "Label for payment method used"
+    }
+}

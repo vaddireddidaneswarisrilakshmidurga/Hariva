@@ -1,0 +1,398 @@
+{
+  "@@locale": "te",
+
+  "appTitle": "ఫార్మ్ సర్వీస్ కనెక్ట్",
+  "@appTitle": {
+    "description": "యాప్ శీర్షిక"
+  },
+
+  "welcomeMessage": "రైతులను డ్రోన్ సేవలతో అనుసంధానం చేస్తున్నాము",
+  "@welcomeMessage": {
+    "description": "యాప్ లక్ష్యాన్ని వివరించే సందేశం"
+  },
+
+  "login": "లాగిన్",
+  "@login": {
+    "description": "లాగిన్ బటన్ లేబుల్"
+  },
+
+  "phoneNumber": "ఫోన్ నంబర్",
+  "@phoneNumber": {
+    "description": "ఫోన్ నంబర్ ఎంటర్ చేయడానికి లేబుల్"
+  },
+
+  "sendOtp": "OTP పంపండి",
+  "@sendOtp": {
+    "description": "OTP పంపడానికి బటన్ లేబుల్"
+  },
+
+  "enterOtp": "OTP నమోదు చేయండి",
+  "@enterOtp": {
+    "description": "OTP నమోదు చేయడానికి లేబుల్"
+  },
+
+  "verifyOtp": "OTP ధృవీకరించండి",
+  "@verifyOtp": {
+    "description": "OTP ధృవీకరించడానికి బటన్"
+  },
+
+  "loginSuccess": "లాగిన్ విజయవంతం",
+  "@loginSuccess": {
+    "description": "లాగిన్ విజయవంతమైనప్పుడు చూపించే సందేశం"
+  },
+
+  "loginFailed": "లాగిన్ విఫలమైంది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "@loginFailed": {
+    "description": "లాగిన్ విఫలమైనప్పుడు చూపించే సందేశం"
+  },
+
+  "homeTitle": "హోమ్",
+  "@homeTitle": {
+    "description": "హోమ్ స్క్రీన్ శీర్షిక"
+  },
+
+  "serviceName": "సేవ పేరు",
+  "@serviceName": {
+    "description": "సేవ పేరు లేబుల్"
+  },
+
+  "serviceDescription": "వివరణ",
+  "@serviceDescription": {
+    "description": "సేవ వివరణకు లేబుల్"
+  },
+
+  "bookNow": "ఇప్పుడే బుక్ చేయండి",
+  "@bookNow": {
+    "description": "బుకింగ్ కోసం బటన్ లేబుల్"
+  },
+
+  "bookingTitle": "సేవను బుక్ చేయండి",
+  "@bookingTitle": {
+    "description": "బుకింగ్ పేజీ శీర్షిక"
+  },
+
+  "farmName": "పొలం పేరు",
+  "@farmName": {
+    "description": "పొలం పేరును నమోదు చేయడానికి లేబుల్"
+  },
+
+  "settings": "సెట్టింగ్స్",
+  "@settings": {
+    "description": "సెట్టింగ్స్ పేజీ లేబుల్"
+  },
+
+  "language": "భాష",
+  "@language": {
+    "description": "భాష ఎంపికకు లేబుల్"
+  },
+
+  "acres": "ఎకరాలు",
+  "@acres": {
+    "description": "ఎకరాల ఎంపిక కోసం లేబుల్"
+  },
+
+  "selectLocation": "స్థానాన్ని ఎంచుకోండి",
+  "@selectLocation": {
+    "description": "సేవ కోసం స్థానాన్ని ఎంచుకోవడానికి లేబుల్"
+  },
+
+  "totalPrice": "మొత్తం ధర",
+  "@totalPrice": {
+    "description": "మొత్తం బుకింగ్ ధరను చూపించడానికి లేబుల్"
+  },
+
+  "proceedToPayment": "చెల్లింపుకు కొనసాగండి",
+  "@proceedToPayment": {
+    "description": "చెల్లింపుకు వెళ్లడానికి బటన్"
+  },
+
+  "bookingSuccess": "బుకింగ్ విజయవంతం",
+  "@bookingSuccess": {
+    "description": "బుకింగ్ విజయవంతమైనప్పుడు చూపించే సందేశం"
+  },
+
+  "bookingFailed": "బుకింగ్ విఫలమైంది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "@bookingFailed": {
+    "description": "బుకింగ్ విఫలమైనప్పుడు చూపించే సందేశం"
+  },
+
+  "paymentTitle": "చెల్లింపు",
+  "@paymentTitle": {
+    "description": "చెల్లింపు పేజీ శీర్షిక"
+  },
+
+  "amountToPay": "చెల్లించాల్సిన మొత్తం",
+  "@amountToPay": {
+    "description": "చెల్లించాల్సిన మొత్తం చూపించడానికి లేబుల్"
+  },
+
+  "payNow": "ఇప్పుడే చెల్లించండి",
+  "@payNow": {
+    "description": "చెల్లింపు కోసం బటన్ లేబుల్"
+  },
+
+  "paymentSuccess": "చెల్లింపు విజయవంతం",
+  "@paymentSuccess": {
+    "description": "చెల్లింపు విజయవంతమైనప్పుడు చూపించే సందేశం"
+  },
+
+  "paymentFailed": "చెల్లింపు విఫలమైంది. దయచేసి మళ్లీ ప్రయత్నించండి.",
+  "@paymentFailed": {
+    "description": "చెల్లింపు విఫలమైనప్పుడు చూపించే సందేశం"
+  },
+
+  "registerPrompt": "ఖాతా లేదా? నమోదు చేయండి",
+  "@registerPrompt": {
+    "description": "ఖాతా లేని వినియోగదారులకు నమోదు సూచన"
+  },
+
+  "register": "నమోదు",
+  "@register": {
+    "description": "నమోదు బటన్ లేబుల్"
+  },
+
+  "email": "ఇమెయిల్",
+  "@email": {
+    "description": "ఇమెయిల్ నమోదు లేబుల్"
+  },
+
+  "registerWithEmail": "ఇమెయిల్‌తో నమోదు చేయండి",
+  "@registerWithEmail": {
+    "description": "ఇమెయిల్ ద్వారా నమోదు ఎంపిక"
+  },
+
+  "fillAllFields": "దయచేసి అన్ని ఫీల్డ్‌లను పూరించండి",
+  "@fillAllFields": {
+    "description": "ఖాళీ ఫీల్డ్‌లను పూరించమని సూచించడానికి సందేశం"
+  },
+
+  "emailOtpNotImplemented": "ఇమెయిల్ OTP పంపడం ఇంకా అమలు కాలేదు",
+  "@emailOtpNotImplemented": {
+    "description": "ఇమెయిల్ OTP పంపడం ఇంకా అందుబాటులో లేదు"
+  },
+
+  "enterOtpPrompt": "దయచేసి OTP నమోదు చేయండి",
+  "@enterOtpPrompt": {
+    "description": "OTP నమోదు చేయమని సూచించడానికి సందేశం"
+  },
+
+  "invalidOtp": "చెల్లని OTP",
+  "@invalidOtp": {
+    "description": "తప్పు OTP నమోదు చేసినప్పుడు చూపించే సందేశం"
+  },
+
+  "logout": "లాగ్అవుట్",
+  "@logout": {
+    "description": "లాగ్అవుట్ బటన్ లేబుల్"
+  },
+
+  "adminDashboardTitle": "అడ్మిన్ డాష్‌బోర్డ్",
+  "@adminDashboardTitle": {
+    "description": "అడ్మిన్ పానెల్ శీర్షిక"
+  },
+
+  "addService": "సేవను జోడించండి",
+  "@addService": {
+    "description": "కొత్త సేవను జోడించడానికి బటన్"
+  },
+
+  "manageBookings": "బుకింగ్‌లను నిర్వహించండి",
+  "@manageBookings": {
+    "description": "బుకింగ్‌ల నిర్వహణ విభాగం శీర్షిక"
+  },
+
+  "accessDenied": "ప్రవేశం నిరాకరించబడింది",
+  "@accessDenied": {
+    "description": "యూజర్‌కు అనుమతి లేకపోతే చూపించే సందేశం"
+  },
+
+  "chatbotTitle": "చాట్‌బాట్",
+  "@chatbotTitle": {
+    "description": "చాట్‌బాట్ ఫీచర్ శీర్షిక"
+  },
+
+  "howToBook": "ఎలా బుక్ చేయాలి?",
+  "@howToBook": {
+    "description": "సేవను బుక్ చేయడం గురించి ప్రశ్న"
+  },
+
+  "bookingInstructions": "హోమ్ స్క్రీన్‌కు వెళ్లి, సేవను ఎంచుకోండి, మరియు బుకింగ్ ఫారమ్‌ను పూరించండి.",
+  "@bookingInstructions": {
+    "description": "సేవను బుక్ చేసే విధానం గురించి సూచనలు"
+  },
+
+  "priceQuestion": "ధర ఎంత?",
+  "@priceQuestion": {
+    "description": "ధర గురించి వినియోగదారుడి ప్రశ్న"
+  },
+
+  "priceResponse": "ధర ఎకరానికి ₹400.",
+  "@priceResponse": {
+    "description": "ధర గురించి ముందుగా నిర్వచించిన చాట్‌బాట్ సమాధానం"
+  },
+
+  "voiceBookingTitle": "వాయిస్ బుకింగ్",
+  "@voiceBookingTitle": {
+    "description": "వాయిస్ బుకింగ్ ఫీచర్ శీర్షిక"
+  },
+
+  "startVoiceBooking": "వాయిస్ బుకింగ్ ప్రారంభించండి",
+  "@startVoiceBooking": {
+    "description": "వాయిస్ బుకింగ్ ప్రారంభించడానికి బటన్"
+  },
+
+  "voicePrompt": "మీరు ఏ సేవను బుక్ చేయాలనుకుంటున్నారు?",
+  "@voicePrompt": {
+    "description": "వాయిస్ అసిస్టెంట్ ద్వారా బుకింగ్ కోసం ప్రాంప్ట్"
+  },
+
+  "noInternet": "ఇంటర్నెట్ కనెక్షన్ లేదు",
+  "@noInternet": {
+    "description": "ఆఫ్‌లైన్‌లో ఉన్నప్పుడు చూపించే హెచ్చరిక"
+  },
+
+  "offlineMode": "ఆఫ్‌లైన్ మోడ్: డేటా పాతది కావచ్చు",
+  "@offlineMode": {
+    "description": "యాప్ ఆఫ్‌లైన్‌లో పనిచేస్తున్నప్పుడు చూపించే సందేశం"
+  },
+
+  "syncingData": "డేటా సింక్ చేస్తోంది...",
+  "@syncingData": {
+    "description": "డేటా సమకాలీకరణ జరుగుతున్నప్పుడు చూపించే సందేశం"
+  },
+
+    "serviceDeleted": "సేవ విజయవంతంగా తొలగించబడింది",
+    "@serviceDeleted": {
+      "description": "సేవ తొలగించినప్పుడు చూపించే సందేశం"
+    },
+
+    "description": "వివరణ",
+    "@description": {
+      "description": "సేవ లేదా అంశ వివరించడానికి లేబుల్"
+    },
+
+    "cancel": "రద్దు చేయండి",
+    "@cancel": {
+      "description": "రద్దు బటన్ లేబుల్"
+    },
+
+    "add": "జోడించండి",
+    "@add": {
+      "description": "కొత్త అంశాన్ని జోడించడానికి బటన్"
+    },
+
+    "serviceAdded": "సేవ విజయవంతంగా జోడించబడింది",
+    "@serviceAdded": {
+      "description": "కొత్త సేవ జోడించినప్పుడు చూపించే సందేశం"
+    },
+
+    "welcome": "స్వాగతం",
+    "@welcome": {
+      "description": "వినియోగదారులకు స్వాగత సందేశం"
+    },
+
+    "serviceAlert": "సేవ ఎకరానికి ₹400కి అందుబాటులో ఉంది",
+    "@serviceAlert": {
+      "description": "ప్రస్తుత సేవ ధరను చూపించే అలర్ట్"
+    },
+
+    "availableServices": "అందుబాటులో ఉన్న సేవలు",
+    "@availableServices": {
+      "description": "సేవల విభాగం శీర్షిక"
+    },
+
+    "pastBookings": "గత బుకింగ్‌లు",
+    "@pastBookings": {
+      "description": "గత బుకింగ్‌ల విభాగం శీర్షిక"
+    },
+
+    "noBookingsYet": "ఇంకా బుకింగ్‌లు లేవు",
+    "@noBookingsYet": {
+      "description": "బుకింగ్‌లు లేనప్పుడు చూపించే సందేశం"
+    },
+
+    "payment": "చెల్లింపు",
+    "@payment": {
+      "description": "చెల్లింపు స్క్రీన్ శీర్షిక"
+    },
+
+    "orderSummary": "ఆర్డర్ సారాంశం",
+    "@orderSummary": {
+      "description": "ఆర్డర్ సారాంశం విభాగం శీర్షిక"
+    },
+
+    "selectPaymentMethod": "చెల్లింపు పద్ధతిని ఎంచుకోండి",
+    "@selectPaymentMethod": {
+      "description": "చెల్లింపు పద్ధతిని ఎంచుకోవడానికి సూచన"
+    },
+
+    "cashOnService": "సేవ సమయంలో నగదు",
+    "@cashOnService": {
+      "description": "సేవ అందించినప్పుడు నగదు చెల్లించే ఎంపిక"
+    },
+
+    "onlinePayment": "ఆన్‌లైన్ చెల్లింపు",
+    "@onlinePayment": {
+      "description": "ఆన్‌లైన్‌లో చెల్లించే ఎంపిక"
+    },
+
+    "razorpayOptions": "UPI, కార్డు, వాలెట్, నెట్ బ్యాంకింగ్",
+    "@razorpayOptions": {
+      "description": "అందుబాటులో ఉన్న ఆన్‌లైన్ చెల్లింపు ఎంపికలు"
+    },
+
+    "confirmPayment": "చెల్లింపును నిర్ధారించండి",
+    "@confirmPayment": {
+      "description": "చెల్లింపును నిర్ధారించడానికి బటన్"
+    },
+
+    "bookingConfirmation": "బుకింగ్ నిర్ధారణ",
+    "@bookingConfirmation": {
+      "description": "బుకింగ్ నిర్ధారణ స్క్రీన్ శీర్షిక"
+    },
+
+    "bookingSuccessful": "బుకింగ్ విజయవంతం!",
+    "@bookingSuccessful": {
+      "description": "బుకింగ్ పూర్తయినప్పుడు చూపించే సందేశం"
+    },
+
+    "bookingId": "బుకింగ్ ID",
+    "@bookingId": {
+      "description": "బుకింగ్ గుర్తింపు కోసం లేబుల్"
+    },
+
+    "bookingDate": "బుకింగ్ తేదీ",
+    "@bookingDate": {
+      "description": "బుకింగ్ తేదీ కోసం లేబుల్"
+    },
+
+    "status": "స్థితి",
+    "@status": {
+      "description": "బుకింగ్ స్థితి కోసం లేబుల్"
+    },
+
+    "pending": "పెండింగ్‌లో ఉంది",
+    "@pending": {
+      "description": "బుకింగ్ పెండింగ్‌లో ఉందని సూచించే స్థితి"
+    },
+
+    "confirmed": "నిర్ధారించబడింది",
+    "@confirmed": {
+      "description": "బుకింగ్ నిర్ధారించబడిందని సూచించే స్థితి"
+    },
+
+    "backToHome": "హోమ్‌కు తిరిగి వెళ్ళండి",
+    "@backToHome": {
+      "description": "హోమ్ స్క్రీన్‌కు తిరిగి వెళ్లడానికి బటన్"
+    },
+
+    "viewAllBookings": "అన్ని బుకింగ్‌లను చూడండి",
+    "@viewAllBookings": {
+      "description": "అన్ని బుకింగ్‌లను చూడటానికి బటన్"
+    },
+
+    "paymentMethod": "చెల్లింపు పద్ధతి",
+    "@paymentMethod": {
+      "description": "ఉపయోగించిన చెల్లింపు పద్ధతి కోసం లేబుల్"
+    }
+}
